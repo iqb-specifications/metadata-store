@@ -15,5 +15,4 @@ Read more:
 
 # Change log
 
-## 0.
 
