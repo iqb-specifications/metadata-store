@@ -7,9 +7,8 @@
     }
   ],
   "mdOutDir": "docs",
-  "publisher": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "maintainer": "",
-  "creator": "",
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "profiles": [
     "test/profile-1.json",
     "test/profile-2.json"
