@@ -16,7 +16,7 @@
     },
     "maintainer": {
       "type": "string",
-      "description": "Maintainer as person or institution. Optional"
+      "description": "Maintainer as person or institution."
     },
     "title": {
       "type": "array",
@@ -47,5 +47,5 @@
       "minItems": 1
     }
   },
-  "required": ["id", "title", "creator", "profiles"]
+  "required": ["id", "title", "creator", "maintainer", "profiles"]
 }
