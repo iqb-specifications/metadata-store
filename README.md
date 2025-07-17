@@ -14,5 +14,3 @@ Read more:
 * [Learn about TBA](https://iqb-berlin.github.io/tba-info/) (German only)
 
 # Change log
-
-
