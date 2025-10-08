@@ -1,5 +1,5 @@
 {
-  "$id": "metadata-store@iqb-standard@1.0",
+  "$id": "metadata-store@iqb-standard@0.4",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Metadata Profile Store",
   "description": "File to list profiles in a metadata profile store",

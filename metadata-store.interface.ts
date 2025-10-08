@@ -6,7 +6,7 @@ export interface LanguageCodedText {
 export interface MDProfileStore {
     id: string,
     creator: string,
-    maintainer: string,
+    maintainer?: string,
     title: LanguageCodedText[],
     profiles: string[]
 }

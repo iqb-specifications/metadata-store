@@ -15,6 +15,6 @@ Read more:
 
 # Change log
 
-## 1.0
+## 0.4
 
 * `maintainer` ist nicht mehr erforderlich
