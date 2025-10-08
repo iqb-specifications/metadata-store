@@ -1,5 +1,5 @@
 {
-  "$id": "https://w3id.org/iqb/vocabs/md-profile-store.schema.json",
+  "$id": "metadata-store@iqb-standard@0.1",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Metadata Profile Store",
   "description": "File to list profiles in a metadata profile store",
@@ -47,5 +47,5 @@
       "minItems": 1
     }
   },
-  "required": ["id", "title", "creator", "maintainer", "profiles"]
+  "required": ["id", "title", "creator", "profiles"]
 }

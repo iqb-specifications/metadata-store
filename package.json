@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "File to list profiles in a metadata profile store.",
   "scripts": {
-    "test_schema": "cd test && jest test ../metadata-store.schema.json .",
+    "test_schema": "cd test && jest test ../metadata-values.schema.json .",
     "generate_docs": "asyncapi generate fromTemplate ./make_doc/asyncapi.yaml @asyncapi/html-template --param config=make_doc/asyncapi.config.json -o ./public --force-write --use-new-generator && cat make_doc/add.css >> ./public/css/global.min.css",
     "prepare_publish": "rm -rf dist/* && tsc && cp ./package_npm.json ./dist/package.json && cp ./README.md ./dist",
     "npm_publish": "cd dist && npm publish --access public"

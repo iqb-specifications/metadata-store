@@ -1,7 +1,7 @@
 asyncapi: 2.5.0
 info:
   title: metadata-store
-  description: Data interface for defining metadata store based on vocabularies of IQB.
+  description: Data interface for defining metadata store
   license:
     name: CC0 1.0
     url: https://creativecommons.org/publicdomain/zero/1.0/
