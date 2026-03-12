@@ -3,7 +3,7 @@
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "MIT",
   "description": "File to list profiles in a metadata profile store.",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iqb-specifications/metadata-store.git"
@@ -12,6 +12,6 @@
     "url": "https://github.com/iqb-specifications/metadata-store/issues"
   },
   "homepage": "https://github.com/iqb-specifications/metadata-store#readme",
-  "main": "index.js",
-  "types": "index.d.ts"
+  "main": "metadata-store.interface.ts",
+  "types": "metadata-store.interface.d.ts"
 }
